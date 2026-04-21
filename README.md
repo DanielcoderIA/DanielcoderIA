@@ -103,8 +103,6 @@ Construyo productos que generan retorno medible.
 <br/><br/>
 <img src="https://img.shields.io/badge/PAGOS_STRIPE-ACTIVOS-635BFF?style=flat-square&logo=stripe&logoColor=white&labelColor=000000"/>
 <br/><br/>
-<img src="https://img.shields.io/badge/USUARIOS-REALES-444444?style=flat-square&labelColor=222222"/>
-<br/><br/>
 </td>
 </tr>
 </table>
